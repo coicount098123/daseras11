@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://howard-primarily-surface-welcome.trycloudflare.com/vnc.html
+URL       : https://utilization-nav-ground-defeat.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-28 03:18:37
+Created   : 2026-07-28 07:45:25
 =======================================================
