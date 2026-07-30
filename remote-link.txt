@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://homeless-drew-maiden-senator.trycloudflare.com/vnc.html
+URL       : https://your-departmental-prostores-directions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 11:58:52
+Created   : 2026-07-30 16:43:10
 =======================================================
