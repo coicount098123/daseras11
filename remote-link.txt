@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tactics-names-jason-limitations.trycloudflare.com/vnc.html
+URL       : https://homeless-drew-maiden-senator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 07:40:44
+Created   : 2026-07-30 11:58:52
 =======================================================
