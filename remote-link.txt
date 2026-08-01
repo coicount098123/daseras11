@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://jam-investor-los-returned.trycloudflare.com/vnc.html
+URL       : https://wider-mainstream-tenant-student.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 03:36:40
+Created   : 2026-08-01 07:34:05
 =======================================================
