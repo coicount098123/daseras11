@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://polished-intense-mixture-die.trycloudflare.com/vnc.html
+URL       : https://expand-qld-precipitation-dosage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 03:17:14
+Created   : 2026-08-05 07:46:59
 =======================================================
