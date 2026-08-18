@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://direct-sheet-clause-warrior.trycloudflare.com/vnc.html
+URL       : https://merry-copies-rice-draws.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 15:40:34
+Created   : 2026-08-18 20:33:42
 =======================================================
